@@ -1,4 +1,4 @@
-const server = require('./server');
+const server = require('./api/server');
 
 const PORT = 6660;
 
